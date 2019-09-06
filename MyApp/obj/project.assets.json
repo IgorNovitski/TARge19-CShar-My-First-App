@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\Documents\\Igor\\MyApp\\MyApp\\MyApp.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\Documents\\Igor\\TARge19-CShar-My-First-App\\MyApp\\MyApp.csproj",
       "projectName": "MyApp",
-      "projectPath": "C:\\Users\\opilane\\Documents\\Igor\\MyApp\\MyApp\\MyApp.csproj",
+      "projectPath": "C:\\Users\\opilane\\Documents\\Igor\\TARge19-CShar-My-First-App\\MyApp\\MyApp.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\Documents\\Igor\\MyApp\\MyApp\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\Documents\\Igor\\TARge19-CShar-My-First-App\\MyApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

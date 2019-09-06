@@ -9,3 +9,9 @@ C:\Users\opilane\Documents\Igor\MyApp\MyApp\obj\Debug\netcoreapp2.0\MyApp.Assemb
 C:\Users\opilane\Documents\Igor\MyApp\MyApp\obj\Debug\netcoreapp2.0\MyApp.AssemblyInfo.cs
 C:\Users\opilane\Documents\Igor\MyApp\MyApp\obj\Debug\netcoreapp2.0\MyApp.dll
 C:\Users\opilane\Documents\Igor\MyApp\MyApp\obj\Debug\netcoreapp2.0\MyApp.pdb
+C:\Users\opilane\Documents\Igor\TARge19-CShar-My-First-App\MyApp\obj\Debug\netcoreapp2.0\MyApp.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Documents\Igor\TARge19-CShar-My-First-App\MyApp\obj\Debug\netcoreapp2.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Documents\Igor\TARge19-CShar-My-First-App\MyApp\obj\Debug\netcoreapp2.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\opilane\Documents\Igor\TARge19-CShar-My-First-App\MyApp\obj\Debug\netcoreapp2.0\MyApp.AssemblyInfo.cs
+C:\Users\opilane\Documents\Igor\TARge19-CShar-My-First-App\MyApp\obj\Debug\netcoreapp2.0\MyApp.dll
+C:\Users\opilane\Documents\Igor\TARge19-CShar-My-First-App\MyApp\obj\Debug\netcoreapp2.0\MyApp.pdb
